@@ -45,7 +45,7 @@ body{
 	background: url(img/background.png);
 	background-size: 100% 100%;
 	background-repeat: no-repeat;
-	background-size:cover;
+	
 }
 
 .sideleft{
@@ -101,12 +101,8 @@ body{
 	color: red;
 }
 
-.six_line{
-	display: flex;
-}
-
 .six_sideleft{
-		width: 4em;
+	width: 4em;
 }
 
 .six_sideright{
